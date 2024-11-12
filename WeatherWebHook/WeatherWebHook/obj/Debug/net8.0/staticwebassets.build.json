@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fb+AopG2zhJzwSa/mS5VMU8gI/sJaJXpZznO2lZMsKs=",
+  "Source": "WeatherWebHook",
+  "BasePath": "_content/WeatherWebHook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
